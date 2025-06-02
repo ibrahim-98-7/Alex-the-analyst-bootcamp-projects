@@ -289,3 +289,12 @@ WHERE country IS NOT NULL AND funds_raised_millions IS NOT NULL
     AND total_laid_off IS NOT NULL AND percentage_laid_off IS NOT NULL
 GROUP BY country
 ORDER BY total_funds_raised_in_country DESC;
+
+/*
+# Key Findings
+- The highest country to have layoff events is the United States, which is 713 events and 256,474 in total labour recorded 
+- also the highest country to have fundraising in amount is the United States for 675,871
+- the highest industries to have layoffs is consumer, retail in order 46,682 and 43,613 for each 
+- The highest year in layoff is 2023
+- there is direct corrolation between raising funds and companies lay off increased
+*/
