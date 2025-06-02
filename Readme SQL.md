@@ -30,9 +30,8 @@ Targeted Analysis: Specific analytical questions regarding funding impact, indus
 MySQL: Primary database for data storage, cleaning, and analysis.
 
 # Key Findings
-[This is where you'll insert your summarized findings from your analysis. Use bullet points for readability. For example:]
-
-Companies with higher funding (e.g., over $500M) tended to have a larger absolute number of laid-off employees but a proportionally lower percentage of their total workforce affected, suggesting better resource management or larger initial scale.
-The Tech industry consistently recorded the highest total layoffs, despite also showing high average funds raised, indicating significant volatility.
-Layoffs peaked in specific periods (e.g., Q1 2023), reflecting broader economic shifts, regardless of individual company funding levels.
-[Add 1-2 more of your most insightful findings]
+1- The highest country to have layoff events is the United States, which is 713 events and 256,474 in total labour recorded 
+2- also the highest country to have fundraising in amount is the United States for 675,871
+3- the highest industries to have layoffs is consumer, retail in order 46,682 and 43,613 for each 
+4- The highest year in layoff is 2023
+5- there is direct corrolation between raising funds and companies lay off increased
