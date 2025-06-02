@@ -30,8 +30,8 @@ Targeted Analysis: Specific analytical questions regarding funding impact, indus
 MySQL: Primary database for data storage, cleaning, and analysis.
 
 # Key Findings
-1- The highest country to have layoff events is the United States, which is 713 events and 256,474 in total labour recorded 
-2- also the highest country to have fundraising in amount is the United States for 675,871
-3- the highest industries to have layoffs is consumer, retail in order 46,682 and 43,613 for each 
-4- The highest year in layoff is 2023
-5- there is direct corrolation between raising funds and companies lay off increased
+- The highest country to have layoff events is the United States, which is 713 events and 256,474 in total labour recorded 
+- also the highest country to have fundraising in amount is the United States for 675,871
+- the highest industries to have layoffs is consumer, retail in order 46,682 and 43,613 for each 
+- The highest year in layoff is 2023
+- there is direct corrolation between raising funds and companies lay off increased
